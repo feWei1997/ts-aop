@@ -1,0 +1,16 @@
+{
+  "name": "ts-ioc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon -e ts --exec ts-node ./app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.4.5",
+    "reflect-metadata": "^0.1.13"
+  }
+}
